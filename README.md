@@ -5,7 +5,7 @@ The Auralin and Novodra are not real insulin products. This clinical trial data 
 
 That said:
 
-This dataset was constructed with the consultation of real doctors to ensure plausibility.
-This clinical trial data for an alternative insulin was inspired and closely mimics this real clinical trial for a new inhaled insulin called Afrezza.
+- This dataset was constructed with the consultation of real doctors to ensure plausibility.
+- This clinical trial data for an alternative insulin was inspired and closely mimics this [real clinical trial for a new inhaled insulin called Afrezza](https://care.diabetesjournals.org/content/38/12/2266.long).
 The data quality issues in this dataset mimic real, common data quality issues in healthcare data. These issues impact quality of care, patient registration, and revenue.
 The patients in this dataset were created using this fake name generator and do not include real names, addresses, phone numbers, emails, etc.
