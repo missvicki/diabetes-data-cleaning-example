@@ -1,6 +1,6 @@
 # diabetes-data-cleaning-example
 
-DISCLAIMER: This Data Isn't "Real"
+DISCLAIMER: This Data Used in this project Isn't "Real"
 The Auralin and Novodra are not real insulin products. This clinical trial data was fabricated for the sake of this course. When assessing this data, the issues that you'll detect (and later clean) are meant to simulate real-world data quality and tidiness issues.
 
 That said:
